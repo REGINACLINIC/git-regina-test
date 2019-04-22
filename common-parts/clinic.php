@@ -31,7 +31,7 @@
 										<div class="detail-area">
 											<table class="store-details">
 												<tr>
-													<th>営業時間</th>
+													<th>　営　業時間</th>
 													<td>月〜金　12:00〜21:00<br>
 														土日祝日 11:00〜20:00</td>
 												</tr>
