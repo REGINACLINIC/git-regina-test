@@ -12,8 +12,7 @@
 						<div class="menu">全身脱毛＋顔<span>（顔を含む全身脱毛５回）</span></div><div class="price">309,000円（税別）</div>
 					</li>
 					<li>
-						<div class="menu">VIO５回完了コース</div><div class="price">84,000円（税別）</div>
-					</li>
+						<div class="menu">VIO５回完了コース</div><div class="price">84,000円（税別）</div></li>
 					<li>
 						<div class="menu">顔脱毛５回完了コース</div><div class="price">96,000円（税別）</div>
 					</li>

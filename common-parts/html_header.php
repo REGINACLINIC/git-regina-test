@@ -15,14 +15,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:site" content="@reginaclinic">
 <meta name="twitter:creator" content="@reginaclinic">
 <meta name="twitter:domain" content="reginaclinic.jp">
-<link rel="stylesheet" type="text/css" href="../lpparts/css/reset.css" media="all">
-<link rel="stylesheet" type="text/css" href="../lpparts/css/common.css" media="all">
-<link rel="stylesheet" type="text/css" href="../lpparts/css/simplelightbox.min.css" media="all" />
-<link href="../lpparts/css/font-awesome.min.css" rel="stylesheet">
-<link rel="apple-touch-icon-precomposed" href="../lpparts/image/icon.png">
+<link rel="stylesheet" type="text/css" href="css/reset.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/common.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/simplelightbox.min.css" media="all" />
+<link href="../css/font-awesome.min.css" rel="stylesheet">
+<link rel="apple-touch-icon-precomposed" href="image/icon.png">
 <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon">
-<script src="../lpparts/js/jQuery_v2.1.3.js"></script>
+<script src="../js/jQuery_v2.1.3.js"></script>
 <script>
 	// ACCORDION
 $(function() {
