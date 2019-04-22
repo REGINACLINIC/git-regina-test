@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/*----------------------------------------------------
+reservation
+----------------------------------------------------*/
+div#warning {
+	width: 96%;
+	padding: 2%;
+	height: 200px;
+	overflow: auto;
+	border: 1px solid #eee;
+	font-size: 80%;
+	margin: 5px 0 10px 0;
+}

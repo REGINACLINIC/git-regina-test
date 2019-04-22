@@ -1,0 +1,86 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img {
+	border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after {
+	content:'';
+}
+abbr,acronym {
+	border:0;
+}
+
+
+/*====================*/
+/*蜈ｱ騾夐Κ蜩・/
+/*====================*/
+
+.tac{text-align:center;}
+.tar{text-align:right;}
+.tal{text-align:left;}
+.fwb{font-weight:bold;}
+.fs10{font-size:10px;}
+.fs14{font-size:14px;}
+.fs16{font-size:16px;}
+.fc1{color:#ee0026;}
+.fc2{color:#ff590b;}
+.fc3{color:#ffe600;}
+.fc4{color:#99cf15;}
+.fc5{color:#00ac9a;}
+.fc6{color:#0090ff;}
+.fc7{color:#d4007a;}
+.mg0{margin:0px;}
+.mgr0{margin-right:0px;}
+.mgl0{margin-left:0px;}
+.mgb0{margin-bottom:0px;}
+.mgt0{margin-top:0px;}
+.mgt10{margin-top:10px;}
+.mgt20{margin-top:20px;}
+
+
+/* ===================
+clearfix 
+===================*/ 
+
+.clearfix:after {  
+visibility:hidden;
+height:0;
+display: block;/
+font-size: 0;  
+content: " ";  
+clear: both;  
+
+}  
+* html .clearfix             { zoom: 1; }
+*:first-child+html .clearfix { zoom: 1; }  
+
+
+
+/* ===================
+画像の余白をクリア
+===================*/
+img{
+	font-size:0;
+	line-height:0;
+	vertical-align:top;
+}
