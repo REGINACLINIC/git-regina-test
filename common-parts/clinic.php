@@ -2,7 +2,7 @@
 			<div class="inner">
 				<h2>クリニックのご紹介</h2>
 
-				<!--a href="https://reginaclinic.jp/reservation/input.php"><img src="image/btn_reserve02.png"></a-->
+				<!--a href="https://reginaclinic.jp/reservation/input.php"><img src="../common-parts/image/btn_reserve02.png"></a-->
 				<style>
 				.newstitle{color: #D2134D!important; text-align: center;font-size: 1.2rem;font-weight: bold;}
 				.news{color:#000000!important;}
@@ -26,7 +26,7 @@
 						<li> <a class="toggle">札幌院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/sapporo/main.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/sapporo/main.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -59,10 +59,10 @@
 												<tr>
 													<th>札幌院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/sapporo/1.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>1.大通駅東出口を出ます。</span></li>
-															<li><img src="image/clinic/sapporo/2.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>2.36番出口に向かいます。</span></li>
-															<li><img src="image/clinic/sapporo/3.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>3.36番出口を出たら右手に進みます。</span></li>
-															<li><img src="image/clinic/sapporo/4.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>4.しばらく直進すると、ハンコ屋さんがありますので、そのビルの６階が「レジーナクリニック 札幌院」です。</span></li>
+															<li><img src="../common-parts/image/clinic/sapporo/1.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>1.大通駅東出口を出ます。</span></li>
+															<li><img src="../common-parts/image/clinic/sapporo/2.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>2.36番出口に向かいます。</span></li>
+															<li><img src="../common-parts/image/clinic/sapporo/3.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>3.36番出口を出たら右手に進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/sapporo/4.jpg" alt="札幌の医療脱毛はレジーナクリニック札幌院"> <span>4.しばらく直進すると、ハンコ屋さんがありますので、そのビルの６階が「レジーナクリニック 札幌院」です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -73,7 +73,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/sapporo/name.svg"  alt="札幌の医療脱毛はレジーナクリニック札幌院"></h3>
+										<h3><img src="../common-parts/image/clinic/sapporo/name.svg"  alt="札幌の医療脱毛はレジーナクリニック札幌院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -94,7 +94,7 @@
 						<li> <a class="toggle">池袋院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/ikebukuro/main.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/ikebukuro/main.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -127,8 +127,8 @@
 												<tr>
 													<th>池袋院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/ikebukuro/1.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"> <span>1.池袋駅35番出口を出て目の前の交差点を渡ります。</span></li>
-															<li><img src="image/clinic/ikebukuro/2.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"> <span>2.1階に宮城ふるさとプラザがあるビルの6階がレジーナクリニック　池袋院です。</span></li>
+															<li><img src="../common-parts/image/clinic/ikebukuro/1.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"> <span>1.池袋駅35番出口を出て目の前の交差点を渡ります。</span></li>
+															<li><img src="../common-parts/image/clinic/ikebukuro/2.jpg" alt="池袋の医療脱毛はレジーナクリニック池袋院"> <span>2.1階に宮城ふるさとプラザがあるビルの6階がレジーナクリニック　池袋院です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -139,7 +139,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/ikebukuro/name.svg" alt="池袋の医療脱毛はレジーナクリニック池袋院"></h3>
+										<h3><img src="../common-parts/image/clinic/ikebukuro/name.svg" alt="池袋の医療脱毛はレジーナクリニック池袋院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -156,7 +156,7 @@
 						<li> <a class="toggle">新宿院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/shinjyuku/main.jpg" alt="新宿の医療脱毛はレジーナクリニック新宿院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/shinjyuku/main.jpg" alt="新宿の医療脱毛はレジーナクリニック新宿院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -194,7 +194,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/shinjyuku/name.svg" alt="新宿の医療脱毛はレジーナクリニック新宿院"></h3>
+										<h3><img src="../common-parts/image/clinic/shinjyuku/name.svg" alt="新宿の医療脱毛はレジーナクリニック新宿院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -211,7 +211,7 @@
 						<li> <a class="toggle">表参道院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/omotesando/main.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/omotesando/main.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -244,12 +244,12 @@
 												<tr>
 													<th>表参道院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/omotesando/1.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>1.明治神宮前７番出口を出て、左手に進みます</span></li>
-															<li><img src="image/clinic/omotesando/2.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>2.少し進むと横断歩道がありますので、渡っていただき、「カラオケ館」方面へ進みます。</span></li>
-															<li><img src="image/clinic/omotesando/3.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>3.しばらく道なりに進むと「サマンサタバサ」が見えてきますので、サマンサタバサを左手に曲がります。</span></li>
-															<li><img src="image/clinic/omotesando/4.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>4.そのまま道なりを直進します。</span></li>
-															<li><img src="image/clinic/omotesando/5.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>5.しばらく直進すると「NATIONAL PHOTO」という青い看板が見えますので、そのお店手前を右に曲がります。</span></li>
-															<li><img src="image/clinic/omotesando/6.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>6.道なりに進むと郵便局が見えます。その奥隣が「レジーナクリニック 表参道院」です。</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/1.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>1.明治神宮前７番出口を出て、左手に進みます</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/2.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>2.少し進むと横断歩道がありますので、渡っていただき、「カラオケ館」方面へ進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/3.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>3.しばらく道なりに進むと「サマンサタバサ」が見えてきますので、サマンサタバサを左手に曲がります。</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/4.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>4.そのまま道なりを直進します。</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/5.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>5.しばらく直進すると「NATIONAL PHOTO」という青い看板が見えますので、そのお店手前を右に曲がります。</span></li>
+															<li><img src="../common-parts/image/clinic/omotesando/6.jpg" alt="表参道の医療脱毛はレジーナクリニック表参道院"> <span>6.道なりに進むと郵便局が見えます。その奥隣が「レジーナクリニック 表参道院」です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -260,7 +260,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/omotesando/name.svg" alt="表参道の医療脱毛はレジーナクリニック表参道院"></h3>
+										<h3><img src="../common-parts/image/clinic/omotesando/name.svg" alt="表参道の医療脱毛はレジーナクリニック表参道院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -277,7 +277,7 @@
 						<li> <a class="toggle">渋谷院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/shibuya/main.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/shibuya/main.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -310,13 +310,13 @@
 												<tr>
 													<th>渋谷院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/shibuya/1.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>1.JR渋谷駅ハチ公口を出ます。</span></li>
-															<li><img src="image/clinic/shibuya/2.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>2.スクランブル交差点を渡ります。</span></li>
-															<li><img src="image/clinic/shibuya/3.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>3.渋谷TSUTAYAを右手にし、左側の道を進みます。</span></li>
-															<li><img src="image/clinic/shibuya/4.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>4.forever21を右手にして左側の道を進みます。</span></li>
-															<li><img src="image/clinic/shibuya/5.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>5.しばらく直進するとカラオケ館が見えてきます。</span></li>
-															<li><img src="image/clinic/shibuya/6.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>6.カラオケ館の1つ先のビルにHUBの看板のビルがあります。</span></li>
-															<li><img src="image/clinic/shibuya/7.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>7.ビルの入口です。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/1.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>1.JR渋谷駅ハチ公口を出ます。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/2.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>2.スクランブル交差点を渡ります。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/3.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>3.渋谷TSUTAYAを右手にし、左側の道を進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/4.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>4.forever21を右手にして左側の道を進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/5.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>5.しばらく直進するとカラオケ館が見えてきます。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/6.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>6.カラオケ館の1つ先のビルにHUBの看板のビルがあります。</span></li>
+															<li><img src="../common-parts/image/clinic/shibuya/7.jpg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"> <span>7.ビルの入口です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -327,7 +327,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/shibuya/name.svg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"></h3>
+										<h3><img src="../common-parts/image/clinic/shibuya/name.svg" alt="渋谷の医療脱毛はレジーナクリニック渋谷院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -344,7 +344,7 @@
 						<li> <a class="toggle">上野院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/ueno/main.jpg" alt="上野の医療脱毛はレジーナクリニック上野院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/ueno/main.jpg" alt="上野の医療脱毛はレジーナクリニック上野院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -382,7 +382,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/ueno/name.svg" alt="上野の医療脱毛はレジーナクリニック上野院"></h3>
+										<h3><img src="../common-parts/image/clinic/ueno/name.svg" alt="上野の医療脱毛はレジーナクリニック上野院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -402,7 +402,7 @@
 						<li> <a class="toggle">銀座五丁目院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/ginza/main.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/ginza/main.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -435,9 +435,9 @@
 												<tr>
 													<th>銀座五丁目院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/ginza/1.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>1.銀座駅のB5出口から出ます。</span></li>
-															<li><img src="image/clinic/ginza/2.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>2.出口からすぐのところにマツモトキヨシがありますので、マツモトキヨシの右側の道を進みます。</span></li>
-															<li><img src="image/clinic/ginza/3.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>3.しばらく道なりに進むとJPR銀座並木通りビルというビルがあり、その４階がレジーナクリニック銀座五丁目院です。</span></li>
+															<li><img src="../common-parts/image/clinic/ginza/1.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>1.銀座駅のB5出口から出ます。</span></li>
+															<li><img src="../common-parts/image/clinic/ginza/2.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>2.出口からすぐのところにマツモトキヨシがありますので、マツモトキヨシの右側の道を進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/ginza/3.jpg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"> <span>3.しばらく道なりに進むとJPR銀座並木通りビルというビルがあり、その４階がレジーナクリニック銀座五丁目院です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -448,7 +448,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/ginza/name.svg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"></h3>
+										<h3><img src="../common-parts/image/clinic/ginza/name.svg" alt="銀座の医療脱毛はレジーナクリニック銀座五丁目院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -466,7 +466,7 @@
 						<li> <a class="toggle">町田院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/machida/main.jpg" alt="町田の医療脱毛はレジーナクリニック町田院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/machida/main.jpg" alt="町田の医療脱毛はレジーナクリニック町田院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -516,7 +516,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/machida/name.svg" alt="町田の医療脱毛はレジーナクリニック町田院"></h3>
+										<h3><img src="../common-parts/image/clinic/machida/name.svg" alt="町田の医療脱毛はレジーナクリニック町田院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -534,7 +534,7 @@
 						<li> <a class="toggle">横浜院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/yokohama/main.jpg" alt="横浜の医療脱毛はレジーナクリニック横浜院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/yokohama/main.jpg" alt="横浜の医療脱毛はレジーナクリニック横浜院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -572,7 +572,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/yokohama/name.svg" alt="横浜の医療脱毛はレジーナクリニック横浜院"></h3>
+										<h3><img src="../common-parts/image/clinic/yokohama/name.svg" alt="横浜の医療脱毛はレジーナクリニック横浜院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -590,7 +590,7 @@
 						<li> <a class="toggle">名古屋院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/nagoya/main.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/nagoya/main.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -623,11 +623,11 @@
 												<tr>
 													<th>名古屋院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/nagoya/1.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>1.JR名古屋駅　桜通口を出て右に曲がります。</span></li>
-															<li><img src="image/clinic/nagoya/2.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>2.名古屋駅交番が見えます。</span></li>
-															<li><img src="image/clinic/nagoya/3.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>3.そのまま直進し、名駅通りを右に曲がります。</span></li>
-															<li><img src="image/clinic/nagoya/4.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>4.名古屋モード学園を左手にし、笹島交差点を左に曲がります。</span></li>
-															<li><img src="image/clinic/nagoya/5.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>5.そのまま直進すると、1階に「ダンカン」というお店の入っているビルの10階がレジーナクリニック名古屋院です。</span></li>
+															<li><img src="../common-parts/image/clinic/nagoya/1.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>1.JR名古屋駅　桜通口を出て右に曲がります。</span></li>
+															<li><img src="../common-parts/image/clinic/nagoya/2.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>2.名古屋駅交番が見えます。</span></li>
+															<li><img src="../common-parts/image/clinic/nagoya/3.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>3.そのまま直進し、名駅通りを右に曲がります。</span></li>
+															<li><img src="../common-parts/image/clinic/nagoya/4.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>4.名古屋モード学園を左手にし、笹島交差点を左に曲がります。</span></li>
+															<li><img src="../common-parts/image/clinic/nagoya/5.jpg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"> <span>5.そのまま直進すると、1階に「ダンカン」というお店の入っているビルの10階がレジーナクリニック名古屋院です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -638,7 +638,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/nagoya/name.svg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"></h3>
+										<h3><img src="../common-parts/image/clinic/nagoya/name.svg" alt="名古屋の医療脱毛はレジーナクリニック名古屋院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -661,7 +661,7 @@
 						<li> <a class="toggle">心斎橋院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/shinsaibashi/main.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/shinsaibashi/main.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -694,9 +694,9 @@
 												<tr>
 													<th>心斎橋院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/shinsaibashi/1.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"> <span>1.心斎橋駅の北改札口を出て頂き、クリスタ長堀の南12番出口の階段を上がります<br>
+															<li><img src="../common-parts/image/clinic/shinsaibashi/1.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"> <span>1.心斎橋駅の北改札口を出て頂き、クリスタ長堀の南12番出口の階段を上がります<br>
 																※北改札口は心斎橋駅で言うと、2番出口方面になります。</span></li>
-															<li><img src="image/clinic/shinsaibashi/2.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"> <span>2.登りきった目の前にある敬和ビル ルフレ21（黒いビル）の５階がレジーナクリニック心斎橋院です</span></li>
+															<li><img src="../common-parts/image/clinic/shinsaibashi/2.jpg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"> <span>2.登りきった目の前にある敬和ビル ルフレ21（黒いビル）の５階がレジーナクリニック心斎橋院です</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -707,7 +707,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/shinsaibashi/name.svg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"></h3>
+										<h3><img src="../common-parts/image/clinic/shinsaibashi/name.svg" alt="心斎橋の医療脱毛はレジーナクリニック心斎橋院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -730,7 +730,7 @@
 						<li> <a class="toggle">大阪梅田院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/umeda/main.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/umeda/main.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -764,9 +764,9 @@
 												<tr>
 													<th>大阪梅田院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/umeda/1.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>1.JR北新地駅の出口11−21を出ます。</span></li>
-															<li><img src="image/clinic/umeda/2.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>2.出口を出ると目の前にファミリーマートがあります。</span></li>
-															<li><img src="image/clinic/umeda/3.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>3.ファミリーマートの奥となりにあるビルの10階がレジーナクリニック大阪梅田院です。</span></li>
+															<li><img src="../common-parts/image/clinic/umeda/1.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>1.JR北新地駅の出口11−21を出ます。</span></li>
+															<li><img src="../common-parts/image/clinic/umeda/2.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>2.出口を出ると目の前にファミリーマートがあります。</span></li>
+															<li><img src="../common-parts/image/clinic/umeda/3.jpg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"> <span>3.ファミリーマートの奥となりにあるビルの10階がレジーナクリニック大阪梅田院です。</span></li>
 														</ul></td>
 												</tr>
 											</table>
@@ -777,7 +777,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/umeda/name.svg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"></h3>
+										<h3><img src="../common-parts/image/clinic/umeda/name.svg" alt="大阪梅田の医療脱毛はレジーナクリニック大阪梅田院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -806,7 +806,7 @@
 						<li> <a class="toggle">梅田東院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/umeda-higashi/main.jpg" alt="梅田東の医療脱毛はレジーナクリニック梅田東院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/umeda-higashi/main.jpg" alt="梅田東の医療脱毛はレジーナクリニック梅田東院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -845,7 +845,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/umeda-higashi/name.svg" alt="梅田東の医療脱毛はレジーナクリニック梅田東院"></h3>
+										<h3><img src="../common-parts/image/clinic/umeda-higashi/name.svg" alt="梅田東の医療脱毛はレジーナクリニック梅田東院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -863,7 +863,7 @@
 						<li> <a class="toggle">福岡博多天神院</a>
 							<ul>
 								<li>
-									<div class="pic"><img src="image/clinic/fukuoka/main.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"></div>
+									<div class="pic"><img src="../common-parts/image/clinic/fukuoka/main.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"></div>
 									<div class="store-area">
 										<div class="detail-area">
 											<table class="store-details">
@@ -896,10 +896,10 @@
 												<!--tr>
 													<th>福岡博多天神院までの道順</th>
 													<td><ul class="way">
-															<li><img src="image/clinic/fukuoka/1.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>1.西鉄福岡駅北口を出たら、駅を背中にしてソラリアステージ大画面の方へおります。</span></li>
-															<li><img src="image/clinic/fukuoka/2.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>2.新天町方面へ進みます。</span></li>
-															<li><img src="image/clinic/fukuoka/3.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>3.右手にマクドナルド、左手にケンタッキーがあるので、その間の通りを直進します。</span></li>
-															<li><img src="image/clinic/fukuoka/4.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>4.ラウンドワンの横に猫のペットショップが見えますので、そのビルの２階がレジーナクリニック福岡博多天神院です。</span></li>
+															<li><img src="../common-parts/image/clinic/fukuoka/1.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>1.西鉄福岡駅北口を出たら、駅を背中にしてソラリアステージ大画面の方へおります。</span></li>
+															<li><img src="../common-parts/image/clinic/fukuoka/2.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>2.新天町方面へ進みます。</span></li>
+															<li><img src="../common-parts/image/clinic/fukuoka/3.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>3.右手にマクドナルド、左手にケンタッキーがあるので、その間の通りを直進します。</span></li>
+															<li><img src="../common-parts/image/clinic/fukuoka/4.jpg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"> <span>4.ラウンドワンの横に猫のペットショップが見えますので、そのビルの２階がレジーナクリニック福岡博多天神院です。</span></li>
 														</ul></td>
 												</tr-->
 											</table>
@@ -910,7 +910,7 @@
 									</div>
 									<div class="introduce">
 										<h2>院長の経歴</h2>
-										<h3><img src="image/clinic/fukuoka/name.svg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"></h3>
+										<h3><img src="../common-parts/image/clinic/fukuoka/name.svg" alt="福岡の医療脱毛はレジーナクリニック福岡博多天神院"></h3>
 										<h4>略歴</h4>
 										<ul>
 											<li>
@@ -927,7 +927,7 @@
 						</li>
 					</ul>
 				</div>
-				<div class="price"><img src="image/price02.png" alt="医療レーザー脱毛全身２６箇所全5回189,000円"></div>
-				<div class="lastbtn"><a href="https://reginaclinic.jp/reservation/input.php"><img src="image/btn_reserve03.png" alt="まずは無料カウンセリングへ！"></a></div>
+				<div class="price"><img src="../common-parts/image/price02.png" alt="医療レーザー脱毛全身２６箇所全5回189,000円"></div>
+				<div class="lastbtn"><a href="https://reginaclinic.jp/reservation/input.php"><img src="../common-parts/image/btn_reserve03.png" alt="まずは無料カウンセリングへ！"></a></div>
 			</div>
 		</section>

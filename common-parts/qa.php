@@ -1,6 +1,6 @@
 <section id="chapter06">
 	<div class="inner">
-		<h2><img src="image/qa.png" alt="ご予約前にチェック！よくある質問。レジーナクリニック木村総院長がお答えします！" class="pc"><img src="image/qa_sp.png" alt="ご予約前にチェック！よくある質問。レジーナクリニック木村総院長がお答えします！" class="sp"></h2>
+		<h2><img src="../common-parts/image/qa.png" alt="ご予約前にチェック！よくある質問。レジーナクリニック木村総院長がお答えします！" class="pc"><img src="../common-parts/image/qa_sp.png" alt="ご予約前にチェック！よくある質問。レジーナクリニック木村総院長がお答えします！" class="sp"></h2>
 		<div class="accordion qa">
 			<ul>
 				<li>

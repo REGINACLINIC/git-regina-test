@@ -2,7 +2,7 @@
 			<div class="inner">
 				<h2>木村総院長からのメッセージ</h2>
 				<ul>
-					<li><img src="image/kimura.jpg" alt="木村総院長"></li>
+					<li><img src="../common-parts/image/kimura.jpg" alt="木村総院長"></li>
 					<li>「美しい肌を⼿に⼊れたい」<br>
 						⼥性は誰もがそう思われていることでしょう。<br>
 						そんな想いを形にするため、私たちは最新の知⾒と技術を常に追求し、最良の医療を提供します。<br>

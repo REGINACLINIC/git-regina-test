@@ -1,6 +1,6 @@
 		<section id="chapter05_2">
 			<div class="inner">
-				<h2><img src="image/price_title.png" alt="料金一覧"></h2>
+				<h2><img src="../common-parts/image/price_title.png" alt="料金一覧"></h2>
 				<ul>
 					<li>
 						<div class="menu">全身脱毛ライト<span>（全身脱毛５回）</span></div><div class="price">189,000円（税別）</div>
@@ -23,6 +23,6 @@
 					</li>
 				</ul>
 				<p>他にもワキだけや腕だけなど多彩なプランをご用意しております！</p>
-				<div class="btn-price"><a href="image/body_parts_sp.png"><img src="image/btn_body.png" alt="施術個所をイラストでチェック"></a></div>
+				<div class="btn-price"><a href="../common-parts/image/body_parts_sp.png"><img src="../common-parts/image/btn_body.png" alt="施術個所をイラストでチェック"></a></div>
 			</div>
 		</section>

@@ -19,9 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" type="text/css" href="css/common.css" media="all">
 <link rel="stylesheet" type="text/css" href="css/simplelightbox.min.css" media="all" />
 <link href="../css/font-awesome.min.css" rel="stylesheet">
-<link rel="apple-touch-icon-precomposed" href="image/icon.png">
-<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="../common-parts/favicon.ico">
 <script src="../js/jQuery_v2.1.3.js"></script>
 <script>
 	// ACCORDION
