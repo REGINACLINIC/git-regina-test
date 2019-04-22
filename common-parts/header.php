@@ -1,6 +1,6 @@
 <div class="headinner">
 	<div class="logo">
-		<h1><img src="../common-parts/image/logo.svg" alt="EM LP02｜美容皮膚科クリニック REGINA CLINIC"></h1>
+		<h1><img src="../common-parts/image/logo.svg" alt="EM LP｜美容皮膚科クリニック REGINA CLINIC"></h1>
 		<div class="official"><a href="https://reginaclinic.jp" target="_blank">公式サイトはこちら</a>
 		</div>
 		<ul>
