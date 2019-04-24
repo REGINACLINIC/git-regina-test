@@ -151,14 +151,14 @@ action effect
     border: 0px;
     width: 256px;
     height: 72px;
-    background: url("../../img/pc/reservation/btn_confirm.jpg") left top no-repeat;
+    background: url("../../../testnewlpsys/img/pc/reservation/btn_confirm.jpg") left top no-repeat;
     cursor:pointer;
 }
 #confirm_back {
     border: 0px;
     width: 145px;
     height: 40px;
-    background: url("../../img/pc/reservation/btn_back.jpg") left top no-repeat;
+    background: url("../../../testnewlpsys/img/pc/reservation/btn_back.jpg") left top no-repeat;
     cursor:pointer;
 }
 .alert{

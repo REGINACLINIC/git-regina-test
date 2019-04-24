@@ -41,7 +41,7 @@ label:hover {
     border: 0px;
 	width: 256px;
     height: 61px;
-    background: url(../../img/sp/reservation/btn_vacancy.png) left top no-repeat;
+    background: url(../../../testnewlpsys/img/sp/reservation/btn_vacancy.png) left top no-repeat;
 	background-size: 100%;
 	text-indent: -9999px;  
     cursor: pointer;  

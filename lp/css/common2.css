@@ -212,7 +212,7 @@ nav .menu li:nth-child(6) a, nav .menu li:nth-child(7) a {
 }
 h1 {
   color: #FFFFFF;
-  background-image: url(../image/header_zenshin.jpg);
+  background-image: url(../../testnewlpsys/image/header_zenshin.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -675,7 +675,7 @@ table.candolist th.l3, table.candolist td.l3 {
   border-bottom: none;
 }
 .price ul li:first-child {
-  background: url(../image/body.png);
+  background: url(../../testnewlpsys/image/body.png);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: 40%;
@@ -706,7 +706,7 @@ table.candolist th.l3, table.candolist td.l3 {
   font-weight: normal;
 }
 .price ul li:nth-child(2) {
-  background: url(../image/face.png);
+  background: url(../../testnewlpsys/image/face.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -714,7 +714,7 @@ table.candolist th.l3, table.candolist td.l3 {
   margin-top: 20px;
 }
 .price ul li:nth-child(3) {
-  background: url(../image/waki_leg.png);
+  background: url(../../testnewlpsys/image/waki_leg.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -722,7 +722,7 @@ table.candolist th.l3, table.candolist td.l3 {
   margin-top: 20px;
 }
 .price ul li:nth-child(4) {
-  background: url(../image/waki.png);
+  background: url(../../testnewlpsys/image/waki.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -730,7 +730,7 @@ table.candolist th.l3, table.candolist td.l3 {
   margin-top: 20px;
 }
 .price ul li:nth-child(5) {
-  background: url(../image/leg.png);
+  background: url(../../testnewlpsys/image/leg.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -947,7 +947,7 @@ footer .footerMenu01, footer .footerMenu02, footer .footerMenu03, footer .footer
 footer .footerMenu01 li, footer .footerMenu02 li, footer .footerMenu03 li, footer .footerMenu04 li {
   border-bottom: 1px solid #b39271;
   padding-left: 10px;
-  background-image: url(../image/SVG/right.svg);
+  background-image: url(../../testnewlpsys/image/SVG/right.svg);
   background-repeat: no-repeat;
   background-position: 95% center;
   background-size: 10px;
@@ -1134,7 +1134,7 @@ nav .menu li:nth-child(6) a, nav .menu li:nth-child(7) a {
 }
 h1 {
   color: #FFFFFF;
-  background-image: url(../image/header_zenshin.jpg);
+  background-image: url(../../testnewlpsys/image/header_zenshin.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-shadow: 1px 1px 1px #000000;
@@ -1593,7 +1593,7 @@ table.candolist th.l3, table.candolist td.l3 {
   padding: 0;
 }
 .price ul li:first-child {
-  background: url(../image/body.png);
+  background: url(../../testnewlpsys/image/body.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 280px;
@@ -1625,7 +1625,7 @@ table.candolist th.l3, table.candolist td.l3 {
   font-weight: normal;
 }
 .price ul li:nth-child(2) {
-  background: url(../image/face.png);
+  background: url(../../testnewlpsys/image/face.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -1633,7 +1633,7 @@ table.candolist th.l3, table.candolist td.l3 {
   margin-top: 20px;
 }
 .price ul li:nth-child(3) {
-  background: url(../image/waki_leg.png);
+  background: url(../../testnewlpsys/image/waki_leg.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -1641,7 +1641,7 @@ table.candolist th.l3, table.candolist td.l3 {
   margin-top: 20px;
 }
 .price ul li:nth-child(4) {
-  background: url(../image/waki.png);
+  background: url(../../testnewlpsys/image/waki.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;
@@ -1650,7 +1650,7 @@ table.candolist th.l3, table.candolist td.l3 {
   border-bottom: none;
 }
 .price ul li:nth-child(5) {
-  background: url(../image/leg.png);
+  background: url(../../testnewlpsys/image/leg.png);
   background-repeat: no-repeat;
   background-position: left center;
   height: 230px;

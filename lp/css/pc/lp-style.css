@@ -31,7 +31,7 @@
 	width:1200px;
 	height:291px;
 	margin:0 auto;
-	background-image:url(../../img/pc/btnarea.png);
+	background-image:url(../../../testnewlpsys/img/pc/btnarea.png);
 	background-position:center;
 	background-repeat:no-repeat;
 	position:relative;
@@ -53,7 +53,7 @@
 	width:1200px;
 	height:515px;
 	margin:0 auto;
-	background:url(../../img/pc/store_01.png);
+	background:url(../../../testnewlpsys/img/pc/store_01.png);
 }
 #osaka iframe {
 	position:absolute;
@@ -65,7 +65,7 @@
 	width:1200px;
 	height:505px;
 	margin:0 auto;
-	background:url(../../img/pc/store_02.png);
+	background:url(../../../testnewlpsys/img/pc/store_02.png);
 }
 #shinjuku iframe {
 	position:absolute;

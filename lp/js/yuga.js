@@ -15,10 +15,10 @@
 /*
  * [使用方法] XHTMLのhead要素内で次のように読み込みます。
  
-<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" />
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/thickbox.js"></script>
-<script type="text/javascript" src="js/yuga.js" charset="utf-8"></script>
+<link rel="stylesheet" href="../../testnewlpsys/js/css/thickbox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../../testnewlpsys/js/js/jquery.js"></script>
+<script type="text/javascript" src="../../testnewlpsys/js/js/thickbox.js"></script>
+<script type="text/javascript" src="../../testnewlpsys/js/js/yuga.js" charset="utf-8"></script>
 
  */
 
@@ -155,7 +155,7 @@
 					return false;
 				});
 			}
-			if (c.addIconSrc) e.not(':has(img)').after($('<img src="'+c.addIconSrc+'" class="externalIcon" />'));
+			if (c.addIconSrc) e.not(':has(img)').after($('<img src="../../testnewlpsys/js/'+c.addIconSrc+'" class="externalIcon" />'));
 			e.addClass(c.externalClass);
 		},
 		//画像へ直リンクするとthickboxで表示(thickbox.js利用)

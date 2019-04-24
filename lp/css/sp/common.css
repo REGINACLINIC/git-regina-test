@@ -122,7 +122,7 @@ action effect
     border: 0px;
     width: 80%;
     height: 144px;
-    background: url("../../img/sp/reservation/btn_confirm.jpg") left top no-repeat;
+    background: url("../../../testnewlpsys/img/sp/reservation/btn_confirm.jpg") left top no-repeat;
     background-size:contain;
     cursor:pointer;
 }
@@ -130,7 +130,7 @@ action effect
     border: 0px;
     width: 80%;
     height: 40px;
-    background: url("../../img/sp/reservation/btn_back.jpg") left top no-repeat;
+    background: url("../../../testnewlpsys/img/sp/reservation/btn_back.jpg") left top no-repeat;
     cursor:pointer;
 }
 

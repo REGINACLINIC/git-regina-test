@@ -32,8 +32,8 @@ input[type=date] {
 	width: 100%;
 	padding: 2%;
 	background: #eee;
-	background: url(../../img/sp/reservation/arrow01.png) right 50% no-repeat, -webkit-linear-gradient(top, #fff 0%,#efebe1 100%);
-	background: url(../../img/sp/reservation/arrow01.png) right 50% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background: url(../../../testnewlpsys/img/sp/reservation/arrow01.png) right 50% no-repeat, -webkit-linear-gradient(top, #fff 0%,#efebe1 100%);
+	background: url(../../../testnewlpsys/img/sp/reservation/arrow01.png) right 50% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
 	background-size: 40px, 100%;
 }
 textarea {
@@ -88,8 +88,8 @@ select.boxLong {
 	appearance: none;
 	border: 1px solid #999;
 	background: #eee;
-	background: url(../../img/sp/reservation/arrow01.png) right 50% no-repeat, -webkit-linear-gradient(top, #fff 0%,#efebe1 100%);
-	background: url(../../img/sp/reservation/arrow01.png) right 50% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
+	background: url(../../../testnewlpsys/img/sp/reservation/arrow01.png) right 50% no-repeat, -webkit-linear-gradient(top, #fff 0%,#efebe1 100%);
+	background: url(../../../testnewlpsys/img/sp/reservation/arrow01.png) right 50% no-repeat, linear-gradient(to bottom, #fff 0%,#efebe1 100%);
 	background-size: 40px, 100%;
 }
 
@@ -98,7 +98,7 @@ select.boxLong {
     border: 0px;
 	width: 80%;
     height: 144px;
-    background: url(../../img/sp/reservation/btn_vacancy.png) left top no-repeat;
+    background: url(../../../testnewlpsys/img/sp/reservation/btn_vacancy.png) left top no-repeat;
 	background-size: 100%;
 	text-indent: -9999px;  
     cursor: pointer;  

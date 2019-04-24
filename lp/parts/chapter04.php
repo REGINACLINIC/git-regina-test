@@ -19,6 +19,6 @@
 						お仕事帰りに通われる方のために、
 						21時まで診察ができます。</li>
 				</ul>
-				<div class="ema"><img src="../common-parts/image/ema03_sp.png" alt="脱毛が完了するまで満足いただけるサービスを提供いたします！"></div>
+				<div class="ema"><img src="../../testnewlpsys/common-parts/image/ema03_sp.png" alt="脱毛が完了するまで満足いただけるサービスを提供いたします！"></div>
 			</div>
 		</section>
