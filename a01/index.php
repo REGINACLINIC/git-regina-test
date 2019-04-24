@@ -4,7 +4,6 @@
 	<?php require_once(dirname(__FILE__).'/../common-parts/html_header.php'); ?>
 </head>
 <body>
-	
 	<div id="wrap">
 		<header>
 			<?php require_once(dirname(__FILE__).'/../common-parts/header.php'); ?>
