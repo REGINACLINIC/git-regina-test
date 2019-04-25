@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+* html .layer_board_bg, * html .layer_board {
+  position: absolute;
+}
+.layer_board_bg {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  display: none;
+  cursor: pointer;
+  background: #000;
+}
+.layer_board {
+  display: none;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+  width: 620px;
+  height: 300px;
+  text-align: center;
+  z-index: 2000;
+  background-image: url(../image/bg_pop.png);
+  background-color: #FFFFFF;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 0px;
+}
+.layer_board p {
+  padding: 10px 0 10px 0;
+}
+.layer_board p img {
+  width: 60%;
+  margin: 25px 0 0px 0;
+}
+.layer_board ul li {
+  width: 40%;
+  display: inline-block;
+}
+.btn_close a {
+  background: #f4951f;
+  line-height: 2.4;
+  display: block;
+  color: #FFFFFF;
+  border-radius: 6px;
+}
+.btn_to_contact a {
+  background: #D9A657;
+  line-height: 2.4;
+  display: block;
+  color: #FFFFFF;
+  border-radius: 6px;
+}
+.layer_board .pcnon {
+  display: none;
+}
+
+/*-----------------タブレット---------------*/
+@media screen and (max-width:640px) {
+.layer_board {
+  width: 360px;
+  height: 278px;
+  z-index: 2000;
+  background-image: url(../image/bg_pop_sp.png);
+  background-size: 100%;
+  padding: 0 2% 0 2%;
+}
+.layer_board p {
+  padding: 0 20px;
+}
+.layer_board p img {
+  width: 74%;
+  margin: 45px 0 14px 0;
+}
+.layer_board ul {
+  margin-top: 2%;
+}
+.layer_board .pcnon {
+  display: block;
+}
+.layer_board .non {
+  display: none;
+}
+}

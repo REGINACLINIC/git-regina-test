@@ -1,24 +1,6 @@
-		<section id="chapter04">
-			<div class="inner">
-				<h2>お客様満足度アップのために！</h2>
-				<ul>
-					<li>
-						<h3>完全予約制かつ完全個室のラグジュアリー空間</h3>
-						他のお客様とできる限り顔合わせせず、
-						ストレスフリーに通っていただくことができます。</li>
-					<li>
-						<h3>独自予約システムで希望通り予約がとれる</h3>
-						当院が独自で開発した予約システムなので
-						他の方と予約が被ることはありません。</li>
-					<li>
-						<h3>施術はすべて資格を持った医療従事者が対応</h3>
-						医療用の脱毛機は出力が高いため、
-						医師や、有資格者の看護師が施術を行います。</li>
-					<li>
-						<h3>平日は21時まで診察可能！しかも年中無休！</h3>
-						お仕事帰りに通われる方のために、
-						21時まで診察ができます。</li>
-				</ul>
-				<div class="ema"><img src="../../testnewlpsys/common-parts/image/ema03_sp.png" alt="脱毛が完了するまで満足いただけるサービスを提供いたします！"></div>
-			</div>
-		</section>
+<section id="support">
+  <picture>
+    <source media="(min-width:769px)" srcset="../common-parts/image/bnr-support.png">
+    <source media="(max-width:768px)" srcset="../common-parts/image/bnr-support_sp.png">
+    <img src="../common-parts/image/bnr-support.png" alt="レジーナクリニックでは脱⽑料⾦以外追加費⽤は何もかかりません！ さらに⼿厚いサポートも付いてきます！"> </picture>
+</section>
